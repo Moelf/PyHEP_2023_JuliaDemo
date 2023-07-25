@@ -1,0 +1,11 @@
+[deps]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FHist = "68837c9b-b678-4cd5-9925-8a54edc8f695"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LorentzVectorHEP = "f612022c-142a-473f-8cfd-a09cf3793c6c"
+MethodAnalysis = "85b6ec6f-f7df-4429-9514-a64bcd9ee824"
+UnROOT = "3cd96dde-e98d-4713-81e9-a4a1b0235ce9"
